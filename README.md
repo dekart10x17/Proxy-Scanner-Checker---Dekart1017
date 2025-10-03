@@ -16,8 +16,8 @@ Ideal for developers needing reliable proxies quickly.
 ## 📥 Usage ( copy paste all at once )
 
 ```bash
-git clone https://github.com/dekart10x17/Proxy-Scanner-Checker---Dekart1017
-cd PProxy Scanner Checker - Dekart1017
+git clone https://github.com/dekart10x17/UltraFast-Proxy-Checker
+cd UltraFast-Proxy-Checker
 apt install masscan
 chmod 777 scan.sh 
 bash scan.sh
